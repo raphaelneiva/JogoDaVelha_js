@@ -1,8 +1,8 @@
 #mostrador {
     margin: auto;
-    height: 80px;
     margin-top : 40px;
     width: 256px;
+    height: 80px;
 }
 
 #mostrador img {
